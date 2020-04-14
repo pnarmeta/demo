@@ -1,2 +1,2 @@
 FROM pnarmeta/webapp
-ADD ./workflows /var/
+ADD ./workflows /var/www/html/workflows
